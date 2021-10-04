@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Fluency for IELTS Speaking",
+      "tagline": "An intensive course to improve your English fluency and intonation, and help you get a Band 7 or 8 in IELTS Speaking",
+      "videoDuration": "3.5 hours on-demand video",
+      "articles": "2 articles",
+      "resources": "16 downloadable resources",
+      "price": 13.99,
+      "star": 5,
+      "img": "https://keithspeakingacademy.com/wp-content/uploads/2020/10/Course-Banners-3.png?fbclid=IwAR2e6BvKMXyi0oEtzwXhUlCjtOmUpCEa_yhjZXxBvl0u7LckyHP1ijt2y7c"
+    },
+    {
+      "name": " English Language Mastery",
+      "tagline": "Supercharge your English speaking fluency and improve your vocabulary, grammar and English language skills.",
+      "videoDuration": "41.5 hours on-demand video",
+      "articles": "19 articles",
+      "resources": "14 downloadable resources",
+      "price": 14.85,
+      "star": 4,
+      "img": "https://coursemarks.com/wp-content/uploads/2020/11/3450012_b156_5.jpg?fbclid=IwAR3rTxLFWDHqC7UN1y3tqrB3vATPFJgH5wHBJyH70RT2CCRQ12gu7EWy3j0"
+    },
+    {
+      "name": "Intensive Spoken English Course",
+      "tagline": "English speaking course. 77 Hours of English language speaking, English listening practice. 1000 English language words",
+      "videoDuration": "77 hours on-demand video",
+      "articles": "4 articles",
+      "resources": "5 downloadable resources",
+      "price": 15.99,
+      "star": 3,
+      "img": "https://coursemarks.com/wp-content/uploads/2020/11/1526882_ea81_42.jpg?fbclid=IwAR00cnjt-fjDLhWAp2CbHiJWbpXScpy5NdpFU5xVH5xiJcQYbc6cb1QemRM"
+    }
+    ,
+    {
+      "name": "Writing Beginner To Writing Pro",
+      "tagline": "Pro copywriter/Cambridge University writing teacher reveals the secrets for writing blogs and business docs that enthral",
+      "videoDuration": "5.5 hours on-demand video",
+      "articles": "33 articles",
+      "resources": "15 downloadable resources",
+      "price": 17.99,
+      "star": 5,
+      "img": "https://dhoomdeal.com/wp-content/uploads/2018/04/335610_c058_4.jpg?fbclid=IwAR2B8sX-i1f5Qrf48N_c3Mm8htOZX8d1nP9aJw1tunjILWCNEMMcUgSAKUo"
+    }
+  
+  ]

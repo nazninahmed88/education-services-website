@@ -1,0 +1,14 @@
+.img{
+    width: 300px;
+  
+}
+
+.text{
+    text-decoration: none;
+    margin-right: 50px;
+    font-weight: bold;
+}
+.text:hover{
+    transform: scale(1.3);
+   
+}
